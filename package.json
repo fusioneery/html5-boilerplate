@@ -1,0 +1,21 @@
+{
+  "name": "html5-boilerplate",
+  "version": "0.0.1",
+  "description": "Optimized HTML5 + SASS + JS&JQuery Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "boilerplate",
+    "html5",
+    "sass"
+  ],
+  "author": "Vlad Abramov",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.28.2",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
