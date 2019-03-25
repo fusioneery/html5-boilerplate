@@ -124,10 +124,10 @@ module.exports = {
         filename: './css/main.min.css'
       }),
       new CopyWebpackPlugin([
-      {
-        from: './src/favicon',
-        to: './favicon'
-      },
+      // {
+      //   from: './src/favicon',
+      //   to: './favicon'
+      // },
       {
         from: './src/.htaccess'
       }
