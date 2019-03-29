@@ -5,7 +5,7 @@
 
 <p>Optimized HTML5 start template is based on Webpack 4. This boilerplate is suitable for tiny static web-sites and landing pages. 
 
-It has lots of great feautures as:
+It has lots of great feautures such as:
 - SASS support
 - ES7 support
 - Autoprefixer
@@ -43,10 +43,10 @@ For this point, I recommend you a <a href="https://realfavicongenerator.net/">Fa
 
 <ol>
 	<li>All HTML files should have similar initial content as in <strong>src/index.html</strong>;</li>
-	<li>Don't forget to fill in the head! [Schema.org generator](https://www.schemaapp.com/tools/jsonld-schema-generator/ "Schema.org generator") and [favicon generator](https://realfavicongenerator.net/ "favicon generator");</li>
+	<li>Don't forget to fill in the head! <a href="https://www.schemaapp.com/tools/jsonld-schema-generator/">Schema.org generator</a> and <a href="https://realfavicongenerator.net/">favicon generator</a>;</li>
 	<li><strong>Custom HTML</strong> comment in app/index.html - all your custom HTML;</li>
-		<li>Remember about accessibility, semantic layout and no errors on [validators](https://validator.w3.org/ "validators")!;</li>
-        <li>If you want, you can use JQuery library, by uncommenting it in index.html <b>BUT</b> you can implement any feauture with native JS, providing better perfomance, than JQ. At the very least, you can use <a href="https://github.com/madrobby/zepto/">zepto.js</a></li>
+		<li>Remember about accessibility, semantic layout and no errors on <a href="https://validator.w3.org/">validators</a>;</li>
+        <li>If you want, you can use JQuery library, by uncommenting it in index.html <b>BUT</b> you can implement any feauture with native JS, providing better perfomance, than JQ. At the very least, you can use <a href="https://github.com/madrobby/zepto/">zepto.js</a>;</li>
 	<li>All custom JS located in <strong>src/js/main.js</strong>;</li>
 	<li>All Sass vars should be placed in <strong>src/sass/vars.sass</strong>;</li>
 	<li>All Sass custom styles should be placed in <strong>src/sass/main.sass</strong>;</li>
